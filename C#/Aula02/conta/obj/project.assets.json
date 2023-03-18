@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\Aula02.csproj",
-      "projectName": "Aula02",
-      "projectPath": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\Aula02.csproj",
+      "projectUniqueName": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\conta\\conta.csproj",
+      "projectName": "conta",
+      "projectPath": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\conta\\conta.csproj",
       "packagesPath": "C:\\Users\\Quenede Abreu\\.nuget\\packages\\",
-      "outputPath": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\obj\\",
+      "outputPath": "d:\\Quenede Abreu\\Desktop\\Curso_Eng_Software\\C#\\Aula02\\conta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Quenede Abreu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Quenede Abreu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

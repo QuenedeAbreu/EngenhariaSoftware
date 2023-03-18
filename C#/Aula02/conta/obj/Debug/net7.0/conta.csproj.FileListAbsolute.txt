@@ -1,0 +1,15 @@
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\bin\Debug\net7.0\conta.exe
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\bin\Debug\net7.0\conta.deps.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\bin\Debug\net7.0\conta.runtimeconfig.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\bin\Debug\net7.0\conta.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\bin\Debug\net7.0\conta.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.csproj.AssemblyReference.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.AssemblyInfoInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.AssemblyInfo.cs
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.csproj.CoreCompileInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\refint\conta.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\conta.genruntimeconfig.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula02\conta\obj\Debug\net7.0\ref\conta.dll
