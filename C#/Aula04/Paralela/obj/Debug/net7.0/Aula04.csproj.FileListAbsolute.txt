@@ -1,0 +1,15 @@
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\bin\Debug\net7.0\Aula04.exe
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\bin\Debug\net7.0\Aula04.deps.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\bin\Debug\net7.0\Aula04.runtimeconfig.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\bin\Debug\net7.0\Aula04.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\bin\Debug\net7.0\Aula04.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.csproj.AssemblyReference.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.AssemblyInfoInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.AssemblyInfo.cs
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.csproj.CoreCompileInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\refint\Aula04.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\Aula04.genruntimeconfig.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\obj\Debug\net7.0\ref\Aula04.dll

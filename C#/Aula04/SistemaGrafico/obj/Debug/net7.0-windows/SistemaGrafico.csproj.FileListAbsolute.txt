@@ -1,0 +1,17 @@
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.csproj.AssemblyReference.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.Form1.resources
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.csproj.GenerateResource.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.AssemblyInfoInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.AssemblyInfo.cs
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.csproj.CoreCompileInputs.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\bin\Debug\net7.0-windows\SistemaGrafico.exe
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\bin\Debug\net7.0-windows\SistemaGrafico.deps.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\bin\Debug\net7.0-windows\SistemaGrafico.runtimeconfig.json
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\bin\Debug\net7.0-windows\SistemaGrafico.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\bin\Debug\net7.0-windows\SistemaGrafico.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\refint\SistemaGrafico.dll
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.pdb
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\SistemaGrafico.genruntimeconfig.cache
+D:\Quenede Abreu\Desktop\Curso_Eng_Software\C#\Aula04\SistemaGrafico\obj\Debug\net7.0-windows\ref\SistemaGrafico.dll
