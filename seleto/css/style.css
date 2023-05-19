@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Poppins:wght@200;400;600&display=swap');
+*{
+  padding:0;
+  margin:0;
+  font-family: 'Poppins', sans-serif;
+}
+.content-all{
+  width:100vw;
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-image:url("../img/bg.jpg");
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  /* background-color:#009BDF; */
+}
+
+.content-in{
+  width:300px;
+  height:300px;
+  display:flex;
+  align-items: center;
+  flex-direction:column;
+  background-color:#fff;
+  border-radius:10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.content-title{
+  width:100%;
+  height:160px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color:#009BDF;
+  flex-direction:column;
+}
+.content-title img{
+  width:140px;
+  height:40px;
+  margin-bottom:10px;
+}
+
+.content-title h1{
+  font-size:17px;
+}
+.erro-login{
+  width:calc(100% - 20px);
+  height:calc(20% - 20px);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:10px;
+  /* background:blue; */
+}
+
+.erro-login p{
+  color:#FF0000;
+  font-weight:bolder;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+}
+
+form{
+  width:100%;
+  height:100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+  /* background-color:red; */
+}
+.content-input{
+  width:100%;
+  height:30px;
+  margin-bottom:10px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-input input{
+  width:90%;
+  height:80%;
+  padding:5px;
+  background-color:#ADD8E6;
+  border:none;
+  border-radius:5px;
+}
+
+.content-input input[type="submit"]{
+  width:93%;
+  height:40px;
+  margin-top:10px;
+  background-color:#009BDF;
+  border:none;
+  color: #fff;
+  font-weight: bolder;
+  border-radius:5px;
+}
+
+
